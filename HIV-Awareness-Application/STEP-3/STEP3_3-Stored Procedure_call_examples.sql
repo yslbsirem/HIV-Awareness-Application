@@ -1,0 +1,3 @@
+CALL searchedISOYEAR('AFG2016');
+CALL searchedISOYEAR('CPV2007');
+CALL searchedISOYEAR('GTM2002');
